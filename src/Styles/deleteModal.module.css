@@ -1,0 +1,13 @@
+.modalText {
+  height: 28px;
+  width: 296px;
+  border-radius: nullpx;
+  align-items: center;
+
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 500px;
+  line-height: 28px;
+  letter-spacing: 0em;
+  color: #008594;
+}
